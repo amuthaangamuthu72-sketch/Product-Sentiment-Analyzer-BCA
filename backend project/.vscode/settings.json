@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.cors": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.useWebExt": true
+}
