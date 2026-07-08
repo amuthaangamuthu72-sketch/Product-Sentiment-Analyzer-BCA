@@ -1,7 +1,10 @@
 Flask
 flask-cors
-textblob
-oracledb
 gunicorn
+oracledb
+pandas
+selenium
+webdriver-manager
+textblob
+beautifulsoup4
 requests
-beautifulsoap4
