@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product Sentiment Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Product Sentiment Analyzer</h1>
+    <input type="text" id="product" placeholder="Enter product name">
+<br><br>
+<textarea id="review" placeholder="Enter your review"></textarea>
+<br><br>
+
+
+    <br><br>
+    <button id="submitBtn">Submit</button>
+    
+    <h3 id="result"></h3>
+
+    <div class="card">
+        😊 Positive Reviews:
+        <span id="positiveCount">0</span>
+    </div>
+
+    <div class="card">
+        😔 Negative Reviews:
+        <span id="negativeCount">0</span>
+    </div>
+
+    <div class="card">
+        😐 Neutral Reviews:
+        <span id="neutralCount">0</span>
+    </div>
+
+    <h2>Review History</h2>
+
+    <ul id="history"></ul>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
