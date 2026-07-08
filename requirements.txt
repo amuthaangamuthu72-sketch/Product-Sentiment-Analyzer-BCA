@@ -4,4 +4,4 @@ textblob
 oracledb
 gunicorn
 requests
-beautifulsoap4
+beautifulsoup4
