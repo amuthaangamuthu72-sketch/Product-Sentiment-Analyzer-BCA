@@ -7,4 +7,4 @@ selenium
 webdriver-manager
 textblob
 beautifulsoup4
-requests
+requests 
