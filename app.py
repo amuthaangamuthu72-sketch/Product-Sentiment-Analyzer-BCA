@@ -7,7 +7,7 @@ CORS(app)
 
 @app.route("/")
 def home():
-    return "Backend is running"
+    return render_template("index.html")
 
 @app.route("/products", methods=["POST"])
 def add_product():
