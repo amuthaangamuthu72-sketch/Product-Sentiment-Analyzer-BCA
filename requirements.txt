@@ -1,0 +1,7 @@
+Flask
+flask-cors
+textblob
+oracledb
+gunicorn
+requests
+beautifulsoap4
