@@ -1,7 +1,6 @@
 from flask import *
 from flask_cors import CORS
 from db import get_connection
-
 app = Flask(__name__)
 CORS(app)
 
